@@ -3,10 +3,10 @@
 <h1 align="center">Momotalk Editor</h1>
 
 <div align="center">
-    <img src="https://img.shields.io/github/last-commit/u1805/momotalk/main">
-    <img src="https://img.shields.io/github/languages/top/U1805/momotalk" >
-    <a href="https://star-history.com/#U1805/momotalk"> 
-      <img src="https://img.shields.io/github/stars/U1805/momotalk" alt="stars"> 
+    <img src="https://img.shields.io/github/last-commit/2288-256/momotalk/main">
+    <img src="https://img.shields.io/github/languages/top/2288-256/momotalk" >
+    <a href="https://star-history.com/#2288-256/momotalk"> 
+      <img src="https://img.shields.io/github/stars/2288-256/momotalk" alt="stars"> 
     </a>
 </div>
 
