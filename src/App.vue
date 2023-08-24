@@ -18,7 +18,7 @@ import AddIcon from './components/icons/IconAdd.vue'
                 <MomoIcon class="icon momo" />
                 <span id="header__title">MomoTalk</span>
                 <!-- <RouterLink to="/help"><button class="help">?</button></RouterLink> -->
-                <a href="https://github.com/U1805/momotalk/blob/main/README-zh.md"
+                <a href="https://github.com/2288-256/momotalk/blob/main/README-ja.md"
                     ><button class="help">?</button></a
                 >
             </div>
