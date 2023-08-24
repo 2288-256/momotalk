@@ -7,7 +7,7 @@ const readFile = (reader: FileReader) => {
         if (file) {
             if (file.size > 1048576) {
                 // 太大容易卡
-                alert('目前不建议上传大于 1MB 的图片哦！')
+                alert('1MB以上の画像をアップロードすることはお勧めしません！')
                 return
             }
             if (file) {

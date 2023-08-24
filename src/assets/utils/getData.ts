@@ -13,7 +13,7 @@ const getData = async (file: string) => {
 
 const getSchale = async () => {
     const local = await getData('/momotalk/students.json')
-    const schale = await getData('https://schale.gg/data/cn/students.min.json')
+    const schale = await getData('https://schale.gg/data/jp/students.min.json')
     const results: myStudent[] = []
     for (const schaleItem of schale) {
         const newStudent: myStudent = {

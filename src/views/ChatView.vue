@@ -163,8 +163,8 @@ export default defineComponent({
 
             if (typeof this.selected === 'number') {
                 if (this.selected == 1) name = 'sensei'
-                else if (this.selected == 2) name = '羁绊剧情'
-                else if (this.selected == 3) name = '回复'
+                else if (this.selected == 2) name = '絆イベント'
+                else if (this.selected == 3) name = '返信する'
                 else if (this.selected == 4) name = '系统通知'
                 type = this.selected
             } else {
@@ -224,7 +224,7 @@ export default defineComponent({
             reader.addEventListener('load', () => {
                 var name = ''
                 while (name.length === 0) {
-                    name = prompt('请输入自定义角色名')!
+                    name = prompt('カスタムキャラクター名を入力してください。')!
                     if (name === null) return
                 }
                 var student: myStudent = {
