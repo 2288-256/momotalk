@@ -1,7 +1,7 @@
 [
     {
         "Id": 100,
-        "Name": "阿罗娜",
+        "Name": "アロナ",
         "Avatar": [
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2022/6/2/909433.png",
             "https://static.wikia.nocookie.net/blue-archive/images/e/e0/Arona_Icon.png"
@@ -11,28 +11,28 @@
     },
     {
         "Id": 101,
-        "Name": "普拉娜",
+        "Name": "プラナ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/2/24/A.R.O.N.A_Icon.png"],
         "Bio": "前辈，该起床了。",
         "Nickname": ["Purana", "A.R.O.N.A"]
     },
     {
         "Id": 102,
-        "Name": "空",
+        "Name": "ソラ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/b4/Sora_Icon.png"],
         "Bio": "欢、欢迎光临！",
         "Nickname": ["Sora", "额头", "天使24", "便利店"]
     },
     {
         "Id": 110,
-        "Name": "会长",
+        "Name": "会長",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/f/f9/GSC_President_Icon.png"],
         "Bio": "找到引导我们走向新现实的选择",
         "Nickname": ["President", "联邦学生会长"]
     },
     {
         "Id": 111,
-        "Name": "凛",
+        "Name": "リン",
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/4/43/Rin_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/0/09/Rin_Ark_Uniform_Icon.png"
@@ -42,7 +42,7 @@
     },
     {
         "Id": 112,
-        "Name": "桃香",
+        "Name": "モモカ",
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/3/3c/Momoka_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/5/5f/Momoka_Ark_Uniform_Icon.png"
@@ -52,14 +52,14 @@
     },
     {
         "Id": 113,
-        "Name": "花耶",
+        "Name": "カヤ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/bd/Kaya_Icon.png"],
         "Bio": "谁在乎规则，对吧！?",
         "Nickname": ["Kaya", "卡娅"]
     },
     {
         "Id": 114,
-        "Name": "步美",
+        "Name": "アユム",
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/b/b2/Ayumu_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/3/32/Ayumu_Ark_Uniform_Icon.png"
@@ -69,140 +69,140 @@
     },
     {
         "Id": 115,
-        "Name": "葵",
+        "Name": "アオイ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/5/56/Aoi_Icon.png"],
         "Bio": "但你不是她，凛。你永远不会。",
         "Nickname": ["Aoi"]
     },
     {
         "Id": 116,
-        "Name": "灰音",
+        "Name": "ハイネ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/b7/Haine_Icon.png"],
         "Bio": "那只狐狸真是冷酷无情！",
         "Nickname": ["Haine"]
     },
     {
         "Id": 117,
-        "Name": "李",
+        "Name": "スモモ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/4/4a/Sumomo_Icon.png"],
         "Bio": "哈啊~... 我困得吃不下饭团了~",
         "Nickname": ["Sumomo"]
     },
     {
         "Id": 120,
-        "Name": "梦",
+        "Name": "ユメ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/97/Hoshino_Past_2.png"],
         "Bio": "...与你共度时光感觉像是一个奇迹。",
         "Nickname": ["Yume"]
     },
     {
         "Id": 130,
-        "Name": "真琴",
+        "Name": "マコト",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/a/ac/Makoto_Icon.png"],
         "Bio": "",
         "Nickname": ["Makoto"]
     },
     {
         "Id": 131,
-        "Name": "皐月",
+        "Name": "サツキ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/4/4e/Satsuki_Icon.png"],
         "Bio": "",
         "Nickname": ["Satsuki"]
     },
     {
         "Id": 132,
-        "Name": "伊吹",
+        "Name": "イブキ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/3/36/Ibuki_Icon.png"],
         "Bio": "伊吹会尽全力的！",
         "Nickname": ["Ibuki"]
     },
     {
         "Id": 133,
-        "Name": "霞",
+        "Name": "カスミ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/1/1e/Kasumi_Icon.png"],
         "Bio": "有温泉就是好日子！",
         "Nickname": ["Kasumi"]
     },
     {
         "Id": 134,
-        "Name": "绘梨香",
+        "Name": "エリカ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/d/d3/Erika_Icon.png"],
         "Bio": "",
         "Nickname": ["Erika"]
     },
     {
         "Id": 135,
-        "Name": "绮良",
+        "Name": "キララ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/b/b6/Kirara_Icon.png"],
         "Bio": "",
         "Nickname": ["Kirara"]
     },
     {
         "Id": 140,
-        "Name": "莉音",
+        "Name": "リオ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/c/ca/Rio_Icon.png"],
         "Bio": "我不是在说喜欢或不喜欢...只有事实。",
         "Nickname": ["Rio", "理绪"]
     },
     {
         "Id": 150,
-        "Name": "圣娅",
+        "Name": "セイア",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/1/10/Seia_Icon.png"],
         "Bio": "",
         "Nickname": ["Seia"]
     },
     {
         "Id": 151,
-        "Name": "一花",
+        "Name": "イチカ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/2/2f/Ichika_Icon.png"],
         "Bio": "",
         "Nickname": ["Ichika"]
     },
     {
         "Id": 160,
-        "Name": "妮娅",
+        "Name": "ニヤ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/c/c5/Niya_Icon.png"],
         "Bio": "",
         "Nickname": ["Niya", "尼娅"]
     },
     {
         "Id": 161,
-        "Name": "名草",
+        "Name": "ナグサ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/c/ce/Nagusa_Icon.png"],
         "Bio": "一个真正的cosplayer会为了完美的镜头去天涯海角",
         "Nickname": ["Nagusa"]
     },
     {
         "Id": 162,
-        "Name": "海香",
+        "Name": "ウミカ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/2/2d/Umika_Icon.png"],
         "Bio": "",
         "Nickname": ["Umika", "海夏"]
     },
     {
         "Id": 163,
-        "Name": "葛叶",
+        "Name": "クズノハ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/5/57/Kuzunoha_Icon.png"],
         "Bio": "但你的运气远非一般。因为你已经遇见了我",
         "Nickname": ["Kuzunoha"]
     },
     {
         "Id": 170,
-        "Name": "妃咲",
+        "Name": "キサキ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/d/da/Kisaki_Icon.png"],
         "Bio": "如果说我不高兴见到你，那是骗人的……",
         "Nickname": ["Kisaki"]
     },
     {
         "Id": 171,
-        "Name": "丽情",
+        "Name": "レイジョ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/a/ad/Reijo_Icon.png"],
         "Bio": "",
         "Nickname": ["Reijo"]
     },
     {
         "Id": 172,
-        "Name": "廻",
+        "Name": "カイ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/7/79/Kai_Icon.png"],
         "Bio": "期待当我们相遇时会发生什么样的化学反应",
         "Nickname": ["Kai"]
@@ -216,7 +216,7 @@
     },
     {
         "Id": 181,
-        "Name": "梅露",
+        "Name": "メル",
         "Avatar": [
             "/momotalk/Avatars/Meru_Hot_Spring.webp",
             "https://static.wikia.nocookie.net/blue-archive/images/2/2b/Meru_Icon.png",
@@ -227,56 +227,56 @@
     },
     {
         "Id": 190,
-        "Name": "雪乃",
+        "Name": "ユキノ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/1/1c/Yukino_Icon.png"],
         "Bio": "武器不能决定对错——这正是它们的价值",
         "Nickname": ["Yukino"]
     },
     {
         "Id": 191,
-        "Name": "妮可",
+        "Name": "ニコ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/c/cd/Niko_Icon.png"],
         "Bio": "这里有好吃的稻荷寿司哦，这里~",
         "Nickname": ["Niko"]
     },
     {
         "Id": 192,
-        "Name": "音葵",
+        "Name": "オトギ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/6/66/Otogi_Icon.png"],
         "Bio": "这就像可爱的狙击手因为敌人太多而犯的错",
         "Nickname": ["Otogi"]
     },
     {
         "Id": 193,
-        "Name": "胡桃",
+        "Name": "クルミ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/5/51/Kurumi_Icon.png"],
         "Bio": "",
         "Nickname": ["Kurumi"]
     },
     {
         "Id": 200,
-        "Name": "舞",
+        "Name": "マイ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/1/17/Mai_Icon.png"],
         "Bio": "假新闻？再想想。Kivotos月刊只坚持事实！",
         "Nickname": ["Mai", "麦"]
     },
     {
         "Id": 201,
-        "Name": "志乃",
+        "Name": "シノン",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/6/66/Shinon_Icon.png"],
         "Bio": "克罗诺斯学校的新闻俱乐部的偶像记者，志乃！",
         "Nickname": ["Shinon", "诗乃"]
     },
     {
         "Id": 210,
-        "Name": "兰舞",
+        "Name": "ラブ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/1/1a/Rabu_Icon.png"],
         "Bio": "毕竟我是兰舞，钢盔团的领队！",
         "Nickname": ["Rabu"]
     },
     {
         "Id": 211,
-        "Name": "白子（色彩）",
+        "Name": "シロコ＊テラー",
         "Avatar": [
             "https://schale.gg/images/raid/icon/Icon_EN0002.png",
             "https://static.wikia.nocookie.net/blue-archive/images/2/2d/Shiroko_Terror_Icon.png"
@@ -286,14 +286,14 @@
     },
     {
         "Id": 212,
-        "Name": "晶",
+        "Name": "アキラ",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/8/8e/Akira_Icon.png"],
         "Bio": "",
         "Nickname": ["Akira"]
     },
     {
         "Id": 220,
-        "Name": "贝阿朵莉切",
+        "Name": "ベアトリーチェ",
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/7/7a/Beatrice_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/8/8c/Beatrice_Ascended_Icon.png"
@@ -303,7 +303,7 @@
     },
     {
         "Id": 221,
-        "Name": "黑服",
+        "Name": "黒服",
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/3/39/Black_Suit_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/2/2b/Black_Suit_Icon_2.png"
@@ -313,7 +313,7 @@
     },
     {
         "Id": 222,
-        "Name": "戈尔孔达&印花釉法",
+        "Name": "ゴルコンダ＆デカルコマニー",
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/a/a1/Golconde_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/f/f0/Decalcomanie_Icon.png"
@@ -323,14 +323,14 @@
     },
     {
         "Id": 223,
-        "Name": "弗朗西斯",
+        "Name": "フランシス",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/9/94/Francis_Icon.png"],
         "Bio": "",
         "Nickname": ["Francis"]
     },
     {
         "Id": 224,
-        "Name": "巨匠",
+        "Name": "マエストロ",
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/2/2a/Maestro_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/8/80/Maestro_Icon_2.png"
@@ -340,21 +340,21 @@
     },
     {
         "Id": 225,
-        "Name": "普雷纳帕特斯",
+        "Name": "プレナパテス",
         "Avatar": ["https://static.wikia.nocookie.net/blue-archive/images/0/08/Phrenapates_Icon.png"],
         "Bio": "请...照顾好学生。",
         "Nickname": ["Phrenapates"]
     },
     {
         "Id": 226,
-        "Name": "无名的祭司",
+        "Name": "無名の司祭",
         "Avatar": ["https://cdnimg.gamekee.com/wiki2.0/images/w_184/h_184/829/43637/2023/2/17/264731.png"],
         "Bio": "",
         "Nickname": ["Nameless_Priests"]
     },
     {
         "Id": 230,
-        "Name": "寿司人",
+        "Name": "カイテンジャー",
         "Avatar": [
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2022/6/2/23158.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2022/6/2/36893.png",
@@ -367,7 +367,7 @@
     },
     {
         "Id": 231,
-        "Name": "女混混",
+        "Name": "スケバン",
         "Avatar": [
             "/momotalk/Avatars/Sukeban_2.webp",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2022/6/2/703523.png",
@@ -381,7 +381,7 @@
     },
     {
         "Id": 232,
-        "Name": "钢盔团",
+        "Name": "ヘルメット団",
         "Avatar": [
             "/momotalk/Avatars/Helmet_2.webp",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2022/6/2/354264.png",
@@ -392,7 +392,7 @@
     },
     {
         "Id": 233,
-        "Name": "一般学生",
+        "Name": "学生",
         "Avatar": [
             "/momotalk/Avatars/Student_2.webp",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_200/h_200/829/43637/2023/7/8/144957.png",
@@ -425,7 +425,7 @@
     },
     {
         "Id": 234,
-        "Name": "一般市民",
+        "Name": "市民",
         "Avatar": [
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2022/6/2/724041.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2022/6/2/544764.png",
@@ -450,7 +450,7 @@
     },
     {
         "Id": 236,
-        "Name": "机器人",
+        "Name": "ロボット",
         "Avatar": [
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2023/7/9/677592.png",
             "https://cdnimg.gamekee.com/wiki2.0/images/w_252/h_204/829/43637/2023/7/9/105861.png",
@@ -462,7 +462,7 @@
     },
     {
         "Id": 237,
-        "Name": "凯撒PMC",
+        "Name": "カイザーPMC",
         "Avatar": [
             "https://static.wikia.nocookie.net/blue-archive/images/5/5f/Kaiser_PMC_Director_Icon.png",
             "https://static.wikia.nocookie.net/blue-archive/images/1/18/Kaiser_PMC_General_Icon.png",
@@ -474,7 +474,7 @@
 
     {
         "Id": 240,
-        "Name": "比纳",
+        "Name": "ビナー",
         "Avatar": [
             "https://schale.gg/images/raid/icon/Icon_Binah.png",
             "https://schale.gg/images/raid/icon/Icon_Binah_Colour.png"
@@ -484,7 +484,7 @@
     },
     {
         "Id": 241,
-        "Name": "凯赛德",
+        "Name": "ケセド",
         "Avatar": [
             "https://schale.gg/images/raid/icon/Icon_Chesed.png",
             "https://schale.gg/images/raid/icon/Icon_Chesed_Colour.png"
@@ -494,7 +494,7 @@
     },
     {
         "Id": 242,
-        "Name": "白&黑",
+        "Name": "シロ＆クロ",
         "Avatar": [
             "https://schale.gg/images/raid/icon/Icon_Shirokuro.png",
             "https://schale.gg/images/raid/icon/Icon_ShiroKuro_Colour.png"
@@ -511,7 +511,7 @@
     },
     {
         "Id": 245,
-        "Name": "佩洛洛基拉",
+        "Name": "ペロロジラ",
         "Avatar": [
             "https://schale.gg/images/raid/icon/Icon_Perorozilla.png",
             "https://schale.gg/images/raid/icon/Icon_Perorozilla_Colour.png"
@@ -521,7 +521,7 @@
     },
     {
         "Id": 246,
-        "Name": "霍德",
+        "Name": "ホド",
         "Avatar": [
             "https://schale.gg/images/raid/icon/Icon_HOD.png",
             "https://schale.gg/images/raid/icon/Icon_HOD_Colour.png"
